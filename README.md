@@ -1,4 +1,4 @@
-Buenas Noches instructor. Para mas facilidad abajo dejo el script de la creación de la tabla en la base de datos.
+Buenas Noches instructor. Para mas facilidad abajo dejo el script de la creación de la tabla en la base de datos o tambien subi el archivo .sql
 
 // Nombre de la base de datos
 USE FronBack;
